@@ -1,0 +1,16 @@
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task03_Recursy\obj\Debug\net6.0\Task03_Recursy.GlobalUsings.g.cs
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task03_Recursy\obj\Debug\net6.0\Task03_Recursy.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task03_Recursy\obj\Debug\net6.0\Task03_Recursy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task03_Recursy\obj\Debug\net6.0\Task03_Recursy.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task03_Recursy\obj\Debug\net6.0\Task03_Recursy.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task03_Recursy\obj\Debug\net6.0\Task03_Recursy.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task03_Recursy\bin\Debug\net6.0\Task03_Recursy.exe
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task03_Recursy\bin\Debug\net6.0\Task03_Recursy.deps.json
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task03_Recursy\bin\Debug\net6.0\Task03_Recursy.runtimeconfig.json
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task03_Recursy\bin\Debug\net6.0\Task03_Recursy.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task03_Recursy\bin\Debug\net6.0\ref\Task03_Recursy.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task03_Recursy\bin\Debug\net6.0\Task03_Recursy.pdb
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task03_Recursy\obj\Debug\net6.0\Task03_Recursy.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task03_Recursy\obj\Debug\net6.0\ref\Task03_Recursy.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task03_Recursy\obj\Debug\net6.0\Task03_Recursy.pdb
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task03_Recursy\obj\Debug\net6.0\Task03_Recursy.genruntimeconfig.cache
