@@ -1,62 +1,73 @@
-﻿//Двумерный объект
-/* 
-int[,] a;// ссылочный тип
-//int i; значимый 
-
-a = new int[3, 5];
-for (int i = 0; i < 3; i++)
-{
-    for (int j = 0; j < 5; j++)
-    {
-        a[i, j] = i * 10 + j;
-    }
-}
-
-for (int i = 0; i < 3; i++)
-{
-    for (int j = 0; j < 5; j++)
-    {
-        Console.Write("{0,4}",a[i, j] + " ");
-    }
-    Console.WriteLine();
-}
-
- */
-
-
-
-//Методом
+﻿//1.Дан целочисленный двумерный массив, размерности n х m. Найти сумму и произведение четных элементов.
 
 void SetArray2D(int[,] a)
-{
-    for(int i=0;i<a.GetLength(0);i++)
-    {
-        for(int j=0;j<a.GetLength(1);j++)
-        {
-            a[i,j]=i*10+j;
-        }
-    }
-}
 
+{
+
+    for (int i = 0; i < a.GetLength(0); i++)
+
+    {
+
+        for (int j = 0; j < a.GetLength(1); j++)
+
+        {
+
+            a[i, j] = new Random().Next(20, 30);
+
+        }
+
+    }
+
+}
 
 void Print(int[,] a)
+
 {
-    for(int i=0;i<a.GetLength(0);i++)
+
+    for (int i = 0; i < a.GetLength(0); i++)
+
     {
-        for(int j=0;j<a.GetLength(1);j++)
+
+        for (int j = 0; j < a.GetLength(1); j++)
+
         {
-            Console.Write($"{a[i,j],4}");
+
+            Console.Write($"{a[i, j],4}");
+
         }
+
         Console.WriteLine();
+
     }
+
 }
+void Task01(int[,] a, out int sum, out int multi)
 
-//Main
+{
+
+    sum = 0;
+
+    multi = 1;
+
+    for (int i = 0; i < a.GetLength(0); i++)
+
+    {
+
+        for (int j = 0; j < a.GetLength(1); j++)
+
+        {
+             sum = sum + a[i, j];
+             multi = multi * a[i, j]; 
+
+        }
+
+    }
+
+}
 int[,] a;
-a=new int[10,4];
-
-Print(a);
+a = new int[2, 2];
+int sum,multi;
 SetArray2D(a);
-Console.ReadKey();
-Console.Clear();
 Print(a);
+Task01(a, out sum, out multi);
+Console.WriteLine($"Сумма :{sum} Произведение:{multi}");
