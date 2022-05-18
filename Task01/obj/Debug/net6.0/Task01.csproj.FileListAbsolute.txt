@@ -4,7 +4,6 @@ C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task01
 C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task01\bin\Debug\net6.0\Task01.dll
 C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task01\bin\Debug\net6.0\ref\Task01.dll
 C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task01\bin\Debug\net6.0\Task01.pdb
-C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task01\obj\Debug\net6.0\Task01.GlobalUsings.g.cs
 C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task01\obj\Debug\net6.0\Task01.csproj.AssemblyReference.cache
 C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task01\obj\Debug\net6.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Lesson08\Task01\obj\Debug\net6.0\Task01.AssemblyInfoInputs.cache
